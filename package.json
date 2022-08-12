@@ -1,8 +1,8 @@
 {
   "name": "MoonAffairs",
   "version": "1.0.0",
-  "description": "A serverless function to process stripe payments with Nuxt, Netlify, and Lambda",
-  "author": "sdras",
+  "description": "MoonAffairs",
+  "author": "Manas Kashyap",
   "private": true,
   "scripts": {
     "dev": "nuxt",

@@ -1,20 +1,20 @@
 <template>
   <header>
-    <h1>Skyline Ivy</h1>
+    <h1>Moon Affairs</h1>
     <nav>
       <ul>
         <li>
           <nuxt-link exact to="/">Home</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/all">All</nuxt-link>
+          <nuxt-link to="/all">Accessories</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/women">Women</nuxt-link>
+          <nuxt-link to="/women">Women Dress</nuxt-link>
         </li>
-        <li>
+        <!-- <li>
           <nuxt-link to="/men">Men</nuxt-link>
-        </li>
+        </li> -->
         <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
           <nuxt-link to="/cart">Cart</nuxt-link>

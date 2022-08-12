@@ -1,11 +1,11 @@
 <template>
   <footer>
     <section class="callout">
-      <h2>"The surprising styles of Skyline Ivy are advanced for all seasons."</h2>
-      <p>Hansel Andersen</p>
+      <h2>"The surprising styles of Moon Affairs are advanced for all seasons."</h2>
+      <p>Nikhil Dwivedi (Founder)</p>
     </section>
     <app-footer-links />
-    <div class="sarahstuff">
+    <!-- <div class="sarahstuff">
       <p>
         This project is
         <a href="https://github.com/sdras/ecommerce-netlify">open source on github</a>,
@@ -16,7 +16,7 @@
         >@sarah_edo (twitter)</a> &
         <a href="https://github.com/sdras">@sdras (github)</a>
       </p>
-    </div>
+    </div> -->
   </footer>
 </template>
 
